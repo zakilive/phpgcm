@@ -1,8 +1,8 @@
 <!-- 
 author:Syed Ahmed Zaki
 blog:www.zakilive.com
-fb:facebook.com/zakilivebuzz
-app_idea:Mohammad Amir Hamza 
+facebook.com/zakilivebuzz
+app_idea:Mohammad Amir Hamza
 -->
 
 <html>

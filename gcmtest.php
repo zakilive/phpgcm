@@ -8,7 +8,7 @@ app_idea:Mohammad Amir Hamza
 */
 
 // API access key from Google API's Console
-define( 'API_ACCESS_KEY', 'AIzaSyBpP2Dve2Io17gVB-UDwOmhMLHXoX1DVCo' );
+define( 'API_ACCESS_KEY', 'Your API server key is here' );
 $registrationIds = array( $_GET['id'] ); //it is getting registration id from the index page.
 
 // prep the bundle.You can define the desired values from gcm library.I needed message and number only so it has defined here.
