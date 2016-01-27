@@ -1,10 +1,8 @@
 <!-- 
 author:Syed Ahmed Zaki
 blog:www.zakilive.com
-facebook.com/zakilivebuzz
-app_idea:Mohammad Amir Hamza
+facebook.com/zakilivebuzz 
 -->
-
 <html>
 <head>
 <title>SMS Gateway</title>
@@ -23,7 +21,10 @@ app_idea:Mohammad Amir Hamza
 <textarea name="mess"></textarea>
 <br>
 <br>
-<textarea name="id">registration id from your device</textarea>
+<input name="id" value="registration id for phone">
+<br><br>
+<input name="server" value="server API key">
+<br>
 <br>
 <input type="submit" name="btn" value="SUBMIT">
 </form>

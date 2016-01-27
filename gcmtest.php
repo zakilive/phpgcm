@@ -4,11 +4,10 @@
 author:Syed Ahmed Zaki
 blog:www.zakilive.com
 facebook.com/zakilivebuzz
-app_idea:Mohammad Amir Hamza
 */
-
+$api=$_GET['server'];
 // API access key from Google API's Console
-define( 'API_ACCESS_KEY', 'Your API server key is here' );
+define( "API_ACCESS_KEY", "$api" );
 $registrationIds = array( $_GET['id'] ); //it is getting registration id from the index page.
 
 // prep the bundle.You can define the desired values from gcm library.I needed message and number only so it has defined here.
